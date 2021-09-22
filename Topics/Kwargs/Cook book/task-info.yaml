@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# call the function `special` here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7253#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 21 Sep 2021 20:45:25 UTC
+record: -1
