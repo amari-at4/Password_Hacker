@@ -8,3 +8,4 @@ content:
 - Kwargs
 - Json module
 - Time module
+- Conversion to boolean
